@@ -34,14 +34,6 @@ We do **not**:
 - Track your location
 - Collect analytics about your usage
 
-## Third-Party Services
-
-The App uses:
-- **OpenAI Whisper** - For speech-to-text conversion
-- **ElevenLabs** - For text-to-speech audio generation
-
-These services process your voice data solely to provide the reminder functionality. Please refer to their respective privacy policies for more information.
-
 ## Data Security
 
 - All data transmission is encrypted using HTTPS
