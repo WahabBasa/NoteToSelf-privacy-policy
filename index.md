@@ -66,8 +66,7 @@ We may update this privacy policy from time to time. Any changes will be reflect
 ## Contact
 
 If you have questions about this privacy policy, please contact:
-- **Email:** [Your contact email]
-- **GitHub:** https://github.com/WahabBasa/Voice-reminder
+- **Email:** AtheA.hab@gmail.com
 
 ---
 
